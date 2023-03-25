@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning how to work with APIs using NodeJs and Express
+- 👯 I’m looking to collaborate on any tech stack
+- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 <!--
 **ayushdhiman-py/ayushdhiman-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
