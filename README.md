@@ -1,8 +1,11 @@
 ### Hi there 👋
 - 🌱 I’m currently learning how to work with APIs using NodeJs and Express
 - 👯 I’m looking to collaborate on any tech stack
-- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ayush-dhiman-3000651a0/)
-&nbsp;
+- 📫 How to reach me: [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/ayush-dhiman-3000651a0/"
+
 <!--
 **ayushdhiman-py/ayushdhiman-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
