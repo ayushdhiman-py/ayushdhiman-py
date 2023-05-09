@@ -1,5 +1,5 @@
 # 💫 HELLO !! 👋
-- 🌱 I’m currently learning DSA and how to work with APIs using NodeJs and Express
+- 🌱 Currently learning DSA and how to work with APIs using NodeJs and Express
 - 👯 I’m looking to collaborate on any tech stack
 
 
